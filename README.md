@@ -157,32 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="junkfood02--seal"></div>
+<div id="sagernet--sing-box"></div>
 
-### JunkFood02--Seal
+### SagerNet--sing-box
 
-🔗 [source](https://github.com/JunkFood02/Seal) – [<code><small>v1.13.1</small></code>](https://github.com/JunkFood02/Seal/releases/tag/v1.13.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `Seal-1.13.1-arm64-v8a-release.apk` | 41.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/JunkFood02/Seal/Seal-1.13.1-arm64-v8a-release.apk) |
-| `Seal-1.13.1-armeabi-v7a-release.apk` | 38.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/JunkFood02/Seal/Seal-1.13.1-armeabi-v7a-release.apk) |
-| `Seal-1.13.1-x86-release.apk` | 42.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/JunkFood02/Seal/Seal-1.13.1-x86-release.apk) |
-| `Seal-1.13.1-x86_64-release.apk` | 43.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/JunkFood02/Seal/Seal-1.13.1-x86_64-release.apk) |
-
----
-
-<div id="ajavadinezhad--zyrln"></div>
-
-### ajavadinezhad--zyrln
-
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.3.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.3.0)
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.3.0.apk` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.3.0.apk) |
-| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
+| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
+| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
+| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
+| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
 
 ---
 
