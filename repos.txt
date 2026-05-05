@@ -4,10 +4,11 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-#therealaleph/MasterHttpRelayVPN-RUST
+therealaleph/MasterHttpRelayVPN-RUST
 ajavadinezhad/zyrln
 JunkFood02/Seal
 EchoMusicApp/Echo-Music
+EchoMusicApp/Echo-Music/releases/tag/v4.2.2
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
