@@ -8,7 +8,7 @@ therealaleph/MasterHttpRelayVPN-RUST
 ajavadinezhad/zyrln
 JunkFood02/Seal
 EchoMusicApp/Echo-Music
-EchoMusicApp/Echo-Music/releases/tag/v4.2.2
+EchoMusicApp/Echo-Music
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
