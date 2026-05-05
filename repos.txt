@@ -6,9 +6,9 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
 ajavadinezhad/zyrln
-JunkFood02/Seal
-EchoMusicApp/Echo-Music
-EchoMusicApp/Echo-Music
+Hidden-Node/GooseRelayVPN-AndroidClient
+denuitt1/mhr-cfw
+Kianmhz/GooseRelayVPN
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
