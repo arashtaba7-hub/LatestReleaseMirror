@@ -4,7 +4,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-therealaleph/MasterHttpRelayVPN-RUST
+therealaleph/MasterHttpRelayVPN-RUST|windows-amd64|arm64-v8a.apk
 #ajavadinezhad/zyrln
 #Hidden-Node/GooseRelayVPN-AndroidClient
 #denuitt1/mhr-cfw
@@ -19,7 +19,7 @@ therealaleph/MasterHttpRelayVPN-RUST
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
+#SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
 #KaringX/karing|\.dmg|\.exe
