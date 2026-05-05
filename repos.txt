@@ -12,6 +12,8 @@ Kianmhz/GooseRelayVPN
 IRNova/Nova-Proxy-App
 ircfspace/teleMirror
 EchoMusicApp/Echo-Music
+ThisIsDara/mhr-cfw-go
+Ehs6n/LatestReleaseMirror
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 #NullLatency/FlowDriver|linux-amd64|darwin-amd64
