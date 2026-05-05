@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
+
+### Hidden-Node--GooseRelayVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.1</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
