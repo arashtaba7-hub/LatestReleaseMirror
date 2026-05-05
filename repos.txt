@@ -6,6 +6,7 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
 https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases
+therealaleph/MasterHttpRelayVPN-RUST/releases
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
