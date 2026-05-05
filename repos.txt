@@ -11,7 +11,7 @@ therealaleph/MasterHttpRelayVPN-RUST|windows-amd64|arm64-v8a.apk
 #Kianmhz/GooseRelayVPN
 #IRNova/Nova-Proxy-App
 #ircfspace/teleMirror
-#EchoMusicApp/Echo-Music
+EchoMusicApp/Echo-Music
 #ThisIsDara/mhr-cfw-go
 #Ehs6n/LatestReleaseMirror
 
