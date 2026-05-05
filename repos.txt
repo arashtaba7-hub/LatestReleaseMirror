@@ -6,12 +6,11 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64|arm64-v8a
 #ajavadinezhad/zyrln
-#Hidden-Node/GooseRelayVPN-AndroidClient
-#denuitt1/mhr-cfw
+Hidden-Node/GooseRelayVPN-AndroidClient|windows-amd64|arm64-v8a
+denuitt1/mhr-cfw|windows-amd64|arm64-v8a
 #Kianmhz/GooseRelayVPN
 #IRNova/Nova-Proxy-App
 #ircfspace/teleMirror
-EchoMusicApp/Echo-Music
 #ThisIsDara/mhr-cfw-go
 #Ehs6n/LatestReleaseMirror
 
