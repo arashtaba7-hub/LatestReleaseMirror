@@ -161,11 +161,11 @@ sha256sum FILE_NAME
 
 ### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.1</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.1)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk` | 10.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.1-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk) |
 
 ---
 
@@ -173,10 +173,10 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
