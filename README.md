@@ -166,29 +166,4 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-linux-rhel-riscv64.rpm) |
-
----
-
-<div id="hidden-node--gooserelayvpn-androidclient"></div>
-
-### Hidden-Node--GooseRelayVPN-AndroidClient
-
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
-
-| File | Size | Download |
-|------|------|----------|
-| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
-
----
-
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
-
-### therealaleph--MasterHttpRelayVPN-RUST
-
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.22</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.22)
-
-| File | Size | Download |
-|------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.22.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.22.apk) |
-| `mhrv-rs-windows-amd64.zip` | 7.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashtaba7-hub/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
