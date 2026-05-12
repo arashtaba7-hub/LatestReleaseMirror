@@ -5,6 +5,7 @@
 
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST|windows-amd64|arm64-v8a
+2dust/v2rayn
 #ajavadinezhad/zyrln
 Hidden-Node/GooseRelayVPN-AndroidClient|windows-amd64|arm64-v8a
 denuitt1/mhr-cfw
